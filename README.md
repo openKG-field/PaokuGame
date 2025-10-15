@@ -9,3 +9,4 @@
 通过网盘分享的文件：PAOKU1.0.apk
 链接: https://pan.baidu.com/s/14SzjPRTDgv0nr5PsobWVyA?pwd=fr8b 提取码: fr8b
 #VR——（更新中，或者通过PC版本加载Pico环境串流）
+#Package文件：主要导入unity展示代码
